@@ -1,4 +1,12 @@
 /* Add styles for the quote container */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
 .quote-container {
     text-align: center;
     margin-top: 100px;
