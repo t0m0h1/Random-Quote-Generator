@@ -10,6 +10,8 @@ body {
 .quote-container {
     text-align: center;
     margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 /* Style the quote text */
